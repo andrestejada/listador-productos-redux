@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 500g",
+      "precio": "300",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Arroz",
+      "precio": 200,
+      "id": 7
+    },
+    {
+      "nombre": "Solomillo",
+      "precio": 200,
+      "id": 9
+    },
+    {
+      "nombre": "Papa Parda",
+      "precio": 200,
+      "id": 10
+    },
+    {
+      "nombre": "Costilla",
+      "precio": "700",
+      "id": 11
+    },
+    {
+      "nombre": "Jamón ",
+      "precio": 20,
+      "id": 12
+    }
+  ]
+}
